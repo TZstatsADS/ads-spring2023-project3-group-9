@@ -16,7 +16,7 @@ Project : Weakly supervised learning-- label noise and correction
 Team members: Cao Shengqi, Dingore Saloni, He Haoyu, Xue Fei, Zhang Renqi
 
 
-Summary: n this project, we created a predictive model to conduct image classification. We input the images and the labels to find the pattern behind the noisy labels and correct all the noise. Then we return on model 1 to predict.
+Summary: In this project, we created a predictive model to conduct image classification. We input the images and the labels to find the pattern behind the noisy labels and correct all the noise. Then we return on model 1 to predict.
 
 [Contribution Statement] 
 Cao, Shengqi worked on model 2, correct labels.
