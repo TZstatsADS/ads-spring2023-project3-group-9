@@ -11,10 +11,16 @@ Below is an example. If no contribution statement is provided, we will insert a 
 ---
 Sample project README statement.
 
-Project xxx
+Project : Weakly supervised learning-- label noise and correction
 
-Team members: Avi Bond, Comma Deed, En Funn, Gem Hon
+Team members: Cao Shengqi, Dingore Saloni, He Haoyu, Xue Fei, Zhang Renqi
 
-Summary: In this project, we developed a new method and improved the classification accuracy for images of cats and dogs to 99.9%
 
-[Contribution Statement] AB, CD, EF and GH designed the study. AB and CD developed baseline classification model for evaluation. EF and GH explored feature engineering for improving the baseline model. AB, EF and GH discussed and designed the model evaluation protocol. CD carried out the computation for model evaluation. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+Summary: In this project, we created a predictive model to conduct image classification. We input the images and the labels to find the pattern behind the noisy labels and correct all the noise. Then we return on model 1 to predict.
+
+[Contribution Statement] 
+Cao, Shengqi worked on model 2, correct labels.
+Xue, Fei also worked on model 2, correct labels.
+Dingore, Saloni worked on intial data preprocessing and model 1 development.
+Zhang, Renqi worked on model 1 development and helped building model 2.
+He, Haoyu helped building model 2 and organize models.
